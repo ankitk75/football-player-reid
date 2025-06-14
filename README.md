@@ -6,10 +6,12 @@ This project implements real-time object detection and visual re-identification 
 
 ## 🎥 Demo Videos
 
-- ▶️ **Detection Output**:  
+- ▶️ **Detection Output**:
+  [![Detection Video](https://img.youtube.com/vi/aa5JK6-TQoI/maxresdefault.jpg)](https://youtu.be/aa5JK6-TQoI)
   [Watch Detected Video](https://drive.google.com/file/d/1deGHYQ-Ajzrs7ixgt3QeVnO2uEIHkuiw/view?usp=share_link)
 
-- 🎯 **Tracking with Re-ID Output**:  
+- 🎯 **Tracking with Re-ID Output**:
+  [![Tracking Video](https://img.youtube.com/vi/Fc4SgEace-Q/maxresdefault.jpg)](https://youtu.be/Fc4SgEace-Q)
   [Watch Tracked Video](https://drive.google.com/file/d/1deGHYQ-Ajzrs7ixgt3QeVnO2uEIHkuiw/view?usp=share_link)
 
 ---

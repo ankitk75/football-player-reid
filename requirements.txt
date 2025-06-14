@@ -1,0 +1,7 @@
+ultralytics>=8.0.20
+opencv-python
+torch>=1.13
+torchvision
+Pillow
+scikit-learn
+torchreid

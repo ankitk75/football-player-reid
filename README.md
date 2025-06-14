@@ -7,6 +7,7 @@ This project implements real-time object detection and visual re-identification 
 project/
 ├── assets/
 │   └── 15sec_input_720p.mp4
+|   ├── best.pt
 ├── output/
 │   ├── detected_frames/
 │   ├── detected_video_custom.mp4
@@ -14,7 +15,6 @@ project/
 │   └── tracked_video_reid_final.mp4
 ├── detect.py
 ├── track_with_global_reid.py
-├── best.pt
 └── README.md
 ```
 
@@ -22,7 +22,7 @@ project/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/player-reid.git
+git clone https://github.com/ankitk75/football-player-reid.git
 cd player-reid
 ```
 

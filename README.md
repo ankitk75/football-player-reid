@@ -2,6 +2,18 @@
 
 This project implements real-time object detection and visual re-identification to ensure consistent player tracking across frames—even after occlusions or re-entry into the camera view.
 
+---
+
+## 🎥 Demo Videos
+
+- ▶️ **Detection Output**:  
+  [Watch Detected Video](https://drive.google.com/file/d/1deGHYQ-Ajzrs7ixgt3QeVnO2uEIHkuiw/view?usp=share_link)
+
+- 🎯 **Tracking with Re-ID Output**:  
+  [Watch Tracked Video](https://drive.google.com/file/d/1deGHYQ-Ajzrs7ixgt3QeVnO2uEIHkuiw/view?usp=share_link)
+
+---
+
 ## 📁 Folder Structure
 ```
 project/
